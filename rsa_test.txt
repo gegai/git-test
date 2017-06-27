@@ -1,0 +1,4 @@
+add rsa_id.pub key to github
+
+
+test did git need password anymore
